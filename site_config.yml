@@ -1,12 +1,24 @@
-﻿Title: ZHN Charts
+﻿Title: ZID Charts
 Airports:
   Bravo:
-    - HNL
+    - CVG
   Charlie:
-    - OGG
+    - CMH
+    - EVV
+    - IND
+    - LEX
+    - SDF
   Delta:
-    - ITO
-    - KOA
-    - JRF
-    - MKK
-    - LIH
+    - TZR
+    - LOU
+    - CRW
+    - MIE
+    - FTK
+    - HUF
+    - HTS
+    - LUK
+    - OSU
+    - PKB
+    - LCK
+    - ILN
+    - FFO
