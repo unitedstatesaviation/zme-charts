@@ -27,7 +27,7 @@
 }
 
 .airport-bravo {
-    @apply text-oklch(28.2% 0.091 267.935)-600;
+    @apply text-pink-600;
 }
 
 .airport-charlie {
