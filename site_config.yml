@@ -1,24 +1,12 @@
-﻿Title: ZDV Charts
+﻿Title: ZME Charts
 Airports:
   Bravo:
-    - DEN
+    - MEM
   Charlie:
-    - COS
+    - CBM
+    - HSV
+    - JAN
+    - LIT
+    - BNA
+    - XNA
   Delta:
-    - ASE
-    - BKF
-    - GUR
-    - CPR
-    - APA
-    - CYS
-    - CFO
-    - EGE
-    - RCA
-    - FCS
-    - FMN
-    - GJT
-    - FNL
-    - PUB
-    - RAP
-    - BJC
-    - AFF
